@@ -2,7 +2,7 @@
 
 This folder contains the data behind the story [Hed TkTk](http://fivethirtyeight.com/) (link tktk).
 
-Which ads are included in this data are based on lists from [superbowl-ads.com](https://superbowl-ads.com/). This data includes all ads from the 10 brands that advertised the most in Super Bowls from 2000-2020. Ads were then matched to videos from [YouTube](https://youtube.com). The criteria categories were rated by hand by FiveThirtyEight-ers.
+`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000-2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/). We matched the ads to videos from [YouTube](https://youtube.com) and FiveThirtyEight staffers categorized each according to the taxonomy in the table below.
 
 Header | Definition
 ---|---------
