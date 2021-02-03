@@ -10,7 +10,7 @@ Header | Definition
 `brand` | Brand of advertiser
 `superbowl_ads_dot_com_url` | Link to superbowl-ads.com entry for this ad
 `youtube_url` | Link to YouTube video matched to this ad
-`funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are a clear 1 here. Anything serious or dramatic is a 0.
+`funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are marked `True`. Anything serious or dramatic is marked `False`.
 `show_product_quickly` | **Did it show the product right away?** Can you tell what is being advertised within the first 10 seconds of the commercial? If you can see the product or brand name on the screen, that counts.
 `patriotic` | **Was it patriotic?** Did the commercial make a patriotic appeal, either clear or subtle? Any glimpses of an American flag or the words "America" or "United States" counted as patriotic, as did imagery of the armed forces, manufacturing and farming.
 `celebrity` | **Did it feature a celebrity?** If we saw a celebrity we recognized, we checked this one off.
