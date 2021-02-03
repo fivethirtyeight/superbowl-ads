@@ -1,6 +1,6 @@
 # Super Bowl Ads
 
-This folder contains the data behind the story [Hed TkTk](http://fivethirtyeight.com/) (link tktk).
+This repository contains the data behind the story [Hed TkTk](http://fivethirtyeight.com/) (link tktk).
 
 Which ads are included in this data are based on lists from [superbowl-ads.com](https://superbowl-ads.com/). This data includes all ads from the 10 brands that advertised the most in Super Bowls from 2000-2020. Ads were then matched to videos from [YouTube](https://youtube.com). The criteria categories were rated by hand by FiveThirtyEight-ers.
 
