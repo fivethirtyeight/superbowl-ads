@@ -1,8 +1,8 @@
 # Super Bowl Ads
 
-This folder contains the data behind the story [Hed TkTk](http://fivethirtyeight.com/) (link tktk).
+This folder contains the data behind the story [According To Super Bowl Ads, Americans Love America, Animals And Sex](http://projects.fivethirtyeight.com/super-bowl-ads).
 
-`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000-2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/). We matched the ads to videos from [YouTube](https://youtube.com) and FiveThirtyEight staffers categorized each according to the taxonomy in the table below.
+`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000-2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/), with matching videos found on [YouTube](https://youtube.com). FiveThirtyEight staffers then came up with 7 defining characteristics of a Super Bowl ad, watched every video, and evaluated each according to the taxonomy in the table below.
 
 Header | Definition
 ---|---------
