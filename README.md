@@ -1,16 +1,17 @@
 # Super Bowl Ads
 
-This repository contains the data behind the story [Hed TkTk](http://fivethirtyeight.com/) (link tktk).
+This folder contains the data behind the story [According To Super Bowl Ads, Americans Love America, Animals And Sex](http://projects.fivethirtyeight.com/super-bowl-ads).
 
-Which ads are included in this data are based on lists from [superbowl-ads.com](https://superbowl-ads.com/). This data includes all ads from the 10 brands that advertised the most in Super Bowls from 2000-2020. Ads were then matched to videos from [YouTube](https://youtube.com). The criteria categories were rated by hand by FiveThirtyEight-ers.
+`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000-2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/), with matching videos found on [YouTube](https://youtube.com). FiveThirtyEight staffers then came up with 7 defining characteristics of a Super Bowl ad, watched every video, and evaluated each according to the taxonomy in the table below.
 
 Header | Definition
 ---|---------
 `year` | Year the spot aired, according to superbowl-ads.com
 `brand` | Brand of advertiser
+`brand_group` | Brand of advertiser, grouped to account for spelling/punctuation differences, and sub-brands (e.g. `COCA_COLA MINI` is grouped into `Coca Cola`)
 `superbowl_ads_dot_com_url` | Link to superbowl-ads.com entry for this ad
-`youtube_url` | Link to YouTube video matched to this ad
-`funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are a clear 1 here. Anything serious or dramatic is a 0.
+`youtube_url` | Link to YouTube video matched to this ad. If this field is blank, this means we weren't able to find a YouTube video for this spot — so if you find one, please let us know!
+`funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are marked `True`. Anything serious or dramatic is marked `False`.
 `show_product_quickly` | **Did it show the product right away?** Can you tell what is being advertised within the first 10 seconds of the commercial? If you can see the product or brand name on the screen, that counts.
 `patriotic` | **Was it patriotic?** Did the commercial make a patriotic appeal, either clear or subtle? Any glimpses of an American flag or the words "America" or "United States" counted as patriotic, as did imagery of the armed forces, manufacturing and farming.
 `celebrity` | **Did it feature a celebrity?** If we saw a celebrity we recognized, we checked this one off.
