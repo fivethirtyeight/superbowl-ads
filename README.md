@@ -2,13 +2,12 @@
 
 This folder contains the data behind the story [According To Super Bowl Ads, Americans Love America, Animals And Sex](http://projects.fivethirtyeight.com/super-bowl-ads).
 
-`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000-2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/), with matching videos found on [YouTube](https://youtube.com). FiveThirtyEight staffers then came up with 7 defining characteristics of a Super Bowl ad, watched every video, and evaluated each according to the taxonomy in the table below.
+`superbowl-ads.csv` contains a list of ads from the 10 brands that had the most advertisements in Super Bowls from 2000 to 2020, according to data from [superbowl-ads.com](https://superbowl-ads.com/), with matching videos found on [YouTube](https://youtube.com). FiveThirtyEight staffers then came up with seven defining characteristics of a Super Bowl ad, watched every video and evaluated each according to the taxonomy in the table below.
 
 Header | Definition
 ---|---------
 `year` | Year the spot aired, according to superbowl-ads.com
-`brand` | Brand of advertiser
-`brand_group` | Brand of advertiser, grouped to account for spelling/punctuation differences, and sub-brands (e.g. `COCA_COLA MINI` is grouped into `Coca Cola`)
+`brand` | Brand of advertiser, grouped to account for spelling and punctuation differences, and sub-brands (e.g. `Coca-Cola Mini` is grouped into `Coca-Cola`)
 `superbowl_ads_dot_com_url` | Link to superbowl-ads.com entry for this ad
 `youtube_url` | Link to YouTube video matched to this ad. If this field is blank, this means we weren't able to find a YouTube video for this spot — so if you find one, please let us know!
 `funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are marked `True`. Anything serious or dramatic is marked `False`.
