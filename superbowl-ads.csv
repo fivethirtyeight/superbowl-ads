@@ -63,7 +63,7 @@ year,brand,brand_group,superbowl_ads_dot_com_url,youtube_url,funny,show_product_
 2009,DORITOS,Doritos,https://superbowl-ads.com/2009-doritos-new-flavor-pitch/,https://www.youtube.com/watch?v=qKKpRhFcKBk,True,True,False,False,False,False,False
 2010,DORITOS,Doritos,https://superbowl-ads.com/hd-exclusive-doritos-samurai-2010-super-bowl-44-xliv-commercial-ad/,https://www.youtube.com/watch?v=1ww1k7w4WQ8,True,True,False,False,True,False,False
 2015,DORITOS,Doritos,https://superbowl-ads.com/2015-doritos-middle-seat/,https://www.youtube.com/watch?v=2JqRXLQYF9o,True,False,False,False,False,False,True
-2007,Coca Cola,Coca Cola,https://superbowl-ads.com/2007-coca-cola-video-game/,https://www.youtube.com/watch?v=3Tnm53uXIvg,False,True,True,False,True,False,False
+2007,Coca Cola,Coca Cola,https://superbowl-ads.com/2007-coca-cola-video-game/,https://www.youtube.com/watch?v=3Tnm53uXIvg,False,True,True,False,True,True,False
 2019,Toyota,Toyota,https://superbowl-ads.com/2019-toyota-supra-wizard/,https://www.youtube.com/watch?v=ZuBbnZ3UbJw,False,True,False,False,False,False,False
 2002,Budweiser,Budweiser,https://superbowl-ads.com/2002-budweiser-how-ya-doin/,https://www.youtube.com/watch?v=mhEYXcCB1Qw,True,True,False,False,False,False,False
 2014,Coca Cola,Coca Cola,https://superbowl-ads.com/2014-coca-going-all-the-way/,https://www.youtube.com/watch?v=nO-8ZY7p95o,True,False,False,False,False,False,False
@@ -81,7 +81,7 @@ year,brand,brand_group,superbowl_ads_dot_com_url,youtube_url,funny,show_product_
 2004,Budweiser,Budweiser,https://superbowl-ads.com/2004-budweiser-donkey/,https://www.youtube.com/watch?v=pmmsr7PAhWU,False,True,True,False,False,True,False
 2015,Budweiser,Budweiser,https://superbowl-ads.com/budweiser-2015-super-bowl-xlix-ad-brewed-the-hard-way/,https://www.youtube.com/watch?v=7_EfXuGev24,False,True,True,False,False,True,False
 2016,Kia,Kia,https://superbowl-ads.com/kia-optima-2016-super-bowl-50-ad-walken-closet/,https://www.youtube.com/watch?v=rBkPXt-OpA4,True,False,False,True,False,False,False
-2017,Budweiser,Budweiser,https://superbowl-ads.com/2017-budweiser-super-bowl-51-li-tv-commercial-born-hard-way/,https://www.youtube.com/watch?v=HtBZvl7dIu4,False,False,True,False,False,False,False
+2017,Budweiser,Budweiser,https://superbowl-ads.com/2017-budweiser-super-bowl-51-li-tv-commercial-born-hard-way/,https://www.youtube.com/watch?v=HtBZvl7dIu4,False,False,True,False,True,False,False
 2000,Budweiser,Budweiser,https://superbowl-ads.com/2000-budweiser-talking-dog/,,True,False,False,False,False,True,False
 2009,Coca Cola,Coca Cola,https://superbowl-ads.com/2009-coca-cola-heist/,https://www.youtube.com/watch?v=icV7fGqPZ2I,False,True,False,False,False,True,False
 2015,DORITOS,Doritos,https://superbowl-ads.com/doritos-2015-super-bowl-xlix-ad-when-pigs-fly/,https://www.youtube.com/watch?v=YQo0TfuueaY,True,True,True,False,False,True,False
@@ -119,7 +119,7 @@ year,brand,brand_group,superbowl_ads_dot_com_url,youtube_url,funny,show_product_
 2009,Bud Light,Bud Light,https://superbowl-ads.com/2009-bud-light-skier/,https://www.youtube.com/watch?v=LEVQAU_LITI,True,True,False,False,True,False,True
 2014,Kia,Kia,https://superbowl-ads.com/2014-kia-the-truth/,https://www.youtube.com/watch?v=FTNMYoKHwvU,False,False,False,True,True,False,False
 2014,Hyundai,Hynudai,https://superbowl-ads.com/2014-hyundai-elantra-nice/,https://www.youtube.com/watch?v=2jMWybAKjWw,True,True,False,True,True,False,True
-2013,Bud Light,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-commercial-lucky-chair/,https://www.youtube.com/watch?v=7HMTkEMdqBQ,True,True,True,True,True,True,False
+2013,Bud Light,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-commercial-lucky-chair/,https://www.youtube.com/watch?v=7HMTkEMdqBQ,True,True,True,True,True,True,True
 2008,Bud Light,Bud Light,https://superbowl-ads.com/2008-bud-light-wheel-suck/,https://www.youtube.com/watch?v=WX8Du9pusdA,True,True,False,False,False,False,False
 2003,Budweiser,Budweiser,https://superbowl-ads.com/2003-budweiser-great-listener/,https://www.youtube.com/watch?v=zx4SnN9HuRw,True,True,False,False,False,False,False
 2013,Bud Light,Bud Light,https://superbowl-ads.com/video-bud-light-2013-super-bowl-xlvii-ad-journey/,https://www.youtube.com/watch?v=leptS7k6sLE,True,True,False,True,False,False,False
