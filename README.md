@@ -8,8 +8,9 @@ Header | Definition
 ---|---------
 `year` | Year the spot aired, according to superbowl-ads.com
 `brand` | Brand of advertiser
+`brand_group` | Brand of advertiser, grouped to account for spelling/punctuation differences, and sub-brands (e.g. `COCA_COLA MINI` is grouped into `Coca Cola`)
 `superbowl_ads_dot_com_url` | Link to superbowl-ads.com entry for this ad
-`youtube_url` | Link to YouTube video matched to this ad
+`youtube_url` | Link to YouTube video matched to this ad. If this field is blank, this means we weren't able to find a YouTube video for this spot — so if you find one, please let us know!
 `funny` | **Was it trying to be funny?** Is the ad jokey, goofy, weird or silly? Funny commercials (or ones that are trying to be funny) are marked `True`. Anything serious or dramatic is marked `False`.
 `show_product_quickly` | **Did it show the product right away?** Can you tell what is being advertised within the first 10 seconds of the commercial? If you can see the product or brand name on the screen, that counts.
 `patriotic` | **Was it patriotic?** Did the commercial make a patriotic appeal, either clear or subtle? Any glimpses of an American flag or the words "America" or "United States" counted as patriotic, as did imagery of the armed forces, manufacturing and farming.
